@@ -41,7 +41,7 @@ library Matrix {
                     // just use this for testing purposes (because each value is different and known)
                     v[j] = int128(int(i * ip.width + j));
                 }
-                else if (compareStrings(ip.t, 'normal')){
+                else if (compareStrings(ip.t, 'he')){
 
                 }
             }

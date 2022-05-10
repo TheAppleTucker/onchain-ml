@@ -1,1 +1,3 @@
-./cache/solidity-files-cache.json
+cache/
+out/
+.vscode/
